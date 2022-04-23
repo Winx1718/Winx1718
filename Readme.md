@@ -1,12 +1,13 @@
 Hi 👋 My name is Layna ====================== Aspiring Web Developer 👩‍💻
 ---------------------------- I am currently transitioning careers, and have been
 learning code for about a year. I have been mostly working in HTML, CSS ,
-Bootstrap, and JavaScript. I am hoping to start learning React soon. * 🌍  I'm
-based in 🤠 Texas, US * ✉️  You can contact me at
-[lmb283@georgetown.edu](mailto:lmb283@georgetown.edu) * 🚀  I'm currently
+Bootstrap, and JavaScript. I am hoping to start learning React soon. _ 🌍  I'm
+based in 🤠 Texas, US _ ✉️  You can contact me at
+[lmb283@georgetown.edu](mailto:lmb283@georgetown.edu) _ 🚀  I'm currently
 working on [Vanilla JavaScript Weather
-App](http://github.com/Winx1718/Vanilla-JavaScript-WeatherApp.git) * 🧠  I'm
+App](http://github.com/Winx1718/Vanilla-JavaScript-WeatherApp.git) _ 🧠  I'm
 learning CSS, JavaScript, and React### Skills
+
 <p align="left">
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -77,21 +78,21 @@ learning CSS, JavaScript, and React### Skills
       height="32"
   /></a>
 
-  <a href="https://www.facebook.com/laynab1" target="_blank" rel="noreferrer"
+<a href="https://www.facebook.com/laynab1" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"
       width="32"
       height="32"
   /></a>
 
-  <a href="https://www.github.com/Winx1718" target="_blank" rel="noreferrer"
+<a href="https://www.github.com/Winx1718" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
       width="32"
       height="32"
   /></a>
 
-  <a
+<a
     href="http://www.instagram.com/laynamarie11"
     target="_blank"
     rel="noreferrer"
@@ -101,7 +102,7 @@ learning CSS, JavaScript, and React### Skills
       height="32"
   /></a>
 
-  <a
+<a
     href="https://www.linkedin.com/in/layna-moore-89942a101"
     target="_blank"
     rel="noreferrer"
@@ -110,6 +111,7 @@ learning CSS, JavaScript, and React### Skills
       width="32"
       height="32"
   /></a>
+
 </p>
 ### Badges<b>My GitHub Stats</b
 ><a href="http://www.github.com/Winx1718"
