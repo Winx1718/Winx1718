@@ -29,5 +29,3 @@ I am currently transitioning careers, and have been learning code for about a ye
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Winx1718"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Winx1718&stroke=ffffff&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Winx1718"><img src="https://activity-graph.herokuapp.com/graph?username=Winx1718&bg_color=0f172a&color=ffffff&line=a855f7&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
