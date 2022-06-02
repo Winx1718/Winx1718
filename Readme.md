@@ -6,7 +6,7 @@ I am currently transitioning careers, and have been learning code for about a ye
 
 - 🌍  I'm based in 🤠 Texas, US
 - ✉️  You can contact me at [lmb283@georgetown.edu](mailto:lmb283@georgetown.edu)
-- 🚀  I'm currently working on [Vanilla JavaScript Weather App](http://github.com/Winx1718/Vanilla-JavaScript-WeatherApp.git)
+- 🚀  I'm currently working on [LM-Portfolio](http://github.com/Winx1718/LM-Portfolio.git)
 - 🧠  I'm learning CSS, JavaScript, and React
 
 ### Skills
