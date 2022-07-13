@@ -6,7 +6,7 @@ I am currently transitioning careers, and have been learning code for about a ye
 
 - 🌍  I'm based in 🤠 Texas, US
 - ✉️  You can contact me at [lmb283@georgetown.edu](mailto:lmb283@georgetown.edu)
-- 🚀  I'm currently working on [react-weather-app](https://github.com/Winx1718/react-weather-app.git)
+- 🚀  I'm currently working on [react-weather-too](https://github.com/Winx1718/react-weather-too.git)
 - 🧠  I'm learning CSS, JavaScript, and React
 
 ### Skills
