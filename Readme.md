@@ -3,7 +3,7 @@
 ## Web Developer 👩‍💻
 
 - 🌍  I'm based in 🤠 Texas, US
-- 🖥️  See my portfolio at [My Portfolio](http://laynamoore.com)
+- 🖥️  See my portfolio at [LaynaMoore.com](http://laynamoore.com)
 - ✉️  You can contact me at [lmb283@georgetown.edu](mailto:lmb283@georgetown.edu)
 - 🚀  I'm currently working on [react-weather-too](https://github.com/Winx1718/react-weather-too.git)
 - 🧠  I'm learning CSS, JavaScript, and React
