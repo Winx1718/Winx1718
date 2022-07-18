@@ -1,8 +1,6 @@
 # Hi 👋 My name is Layna
 
-## Aspiring Web Developer 👩‍💻
-
-I am currently transitioning careers, and have been learning code for about a year. I have been mostly working in HTML, CSS , Bootstrap, and Vanilla JavaScript and am currently learning React.
+## Web Developer 👩‍💻
 
 - 🌍  I'm based in 🤠 Texas, US
 - ✉️  You can contact me at [lmb283@georgetown.edu](mailto:lmb283@georgetown.edu)
