@@ -1,12 +1,14 @@
-# Hi 👋 My name is Layna
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Layna Moore
+===================================================================================================================================
 
-## Web Developer 👩‍💻
+Web Developer
+-------------
 
-- 🌍  I'm based in 🤠 Texas, US
-- 🖥️  See my portfolio at [LaynaMoore.com](http://laynamoore.com)
-- ✉️  You can contact me at [lmb283@georgetown.edu](mailto:lmb283@georgetown.edu)
-- 🚀  I'm currently working on [dictionary-project](https://github.com/Winx1718/dictionary-project.git)
-- 🧠  I'm learning CSS, JavaScript, and React
+* 🌍  I'm based in I'm based in 🤠 Texas, US
+* 🖥️  See my portfolio at [My Portfolio](http://laynamoore.com)
+* ✉️  You can contact me at [lmb283@georgetown.edu](mailto:lmb283@georgetown.edu)
+* 🚀  I'm currently working on [LM-Portfolio](http://github.com/Winx1718/LM-Portfolio.git)
+* 🧠  I'm learning advanced CSS, JavaScript, and React
 
 ### Skills
 
@@ -28,4 +30,8 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Winx1718"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Winx1718&stroke=ffffff&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Winx1718"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Winx1718&stroke=ffffff&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Winx1718"><img src="https://activity-graph.herokuapp.com/graph?username=Winx1718&bg_color=0f172a&color=ffffff&line=84cc16&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Winx1718" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winx1718&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
