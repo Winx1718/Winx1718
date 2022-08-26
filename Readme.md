@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in I'm based in 🤠 Texas, US
 * 🖥️  See my portfolio at [LaynaMoore.com](http://laynamoore.com)
-* ✉️  You can contact me at [lmb283@georgetown.edu](mailto:lmb283@georgetown.edu)
+* ✉️  You can contact me at [contact@laynamoore.com](mailto:contact@laynamoore.com)
 * 🚀  I'm currently working on [todo_react](https://github.com/Winx1718/todo_react.git)
 * 🧠  I'm learning advanced CSS, JavaScript, and React
 
