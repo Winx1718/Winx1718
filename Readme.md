@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-* 🌍  I'm based in I'm based in 🤠 Texas, US
+* 🌍  I'm based in 🤠 Texas, US
 * 🖥️  See my portfolio at [LaynaMoore.com](http://laynamoore.com)
 * ✉️  You can contact me at [contact@laynamoore.com](mailto:contact@laynamoore.com)
-* 🧠  I'm learning advanced CSS, JavaScript, and React
+* 🧠  I'm learning Wordpress and React
 
 ### Skills
 
